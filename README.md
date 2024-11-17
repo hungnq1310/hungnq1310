@@ -30,7 +30,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2QcJDEMs3k4EI5UnJuCclaxvKiveBoJ3zPGmscTnh
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/hungnq.658/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <h2>&#128201; Statistics </h2>
 <div class="row">
-<div class="column"><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnq1310&show_icons=true&locale=en" alt="hungnq1310" style="width:47%" /></p></div>
+<div class="column"><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnq1310&show_icons=true&locale=en" alt="hungnq1310" style="width:46%" /></p></div>
 <div class="column"><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hungnq1310&" alt="hungnq1310" style="width:49%" /></p></div>
 </div>
 
