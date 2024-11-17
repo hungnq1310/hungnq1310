@@ -28,5 +28,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2QcJDEMs3k4EI5UnJuCclaxvKiveBoJ3zPGmscTnh
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/hùng-nguyễn-735b6a28b" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/hungnq.658/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <h2>&#128201; Statistics </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnq1310&show_icons=true&locale=en" alt="hungnq1310" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungnq1310&" alt="hungnq1310" /></p>
+<div class="row">
+<div class="column"><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnq1310&show_icons=true&locale=en" alt="hungnq1310" /></p></div>
+<div class="column"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hungnq1310&" alt="hungnq1310" /></p></div>
+</div>
+
+
