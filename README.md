@@ -14,7 +14,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2QcJDEMs3k4EI5UnJuCclaxvKiveBoJ3zPGmscTnh
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt
+="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
@@ -29,8 +30,8 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2QcJDEMs3k4EI5UnJuCclaxvKiveBoJ3zPGmscTnh
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/hungnq.658/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
 <h2>&#128201; Statistics </h2>
 <div class="row">
-<div class="column"><p><img src="https://github-readme-stats.vercel.app/api?username=hungnq1310&show_icons=true&locale=en" alt="hungnq1310" style="width:45%" /></p></div>
-<div class="column"><p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hungnq1310&" alt="hungnq1310" style="width:45%" /></p></div>
+<div class="column"><p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hungnq1310&show_icons=true&locale=en" alt="hungnq1310" style="width:45%" /></p></div>
+<div class="column"><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hungnq1310&" alt="hungnq1310" style="width:45%" /></p></div>
 </div>
 
 
