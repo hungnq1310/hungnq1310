@@ -89,7 +89,7 @@ Buckle up, it's a long one 😄<br><br>
 <!-- ================= Đoạn Chat 3 ================= -->
 <tr>
 <td width="48" valign="top" align="center">👤</td>
-<td width="100%" valign="top"><b>What are you building rn? 🔥</b></td>
+<td width="100%" valign="top"><b>What are you building in? 🔥</b></td>
 <td width="48"></td>
 </tr>
 <tr>
