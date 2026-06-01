@@ -21,7 +21,7 @@
 <td width="48"></td>
 <td width="100%" valign="top" align="right">
 
-Xin chào! I'm **Hùng Nguyễn**, an AI Engineer based in Ho Chi Minh City 🇻🇳
+Hi! I'm **Hùng Nguyễn**, an AI Engineer based in Ho Chi Minh City 🇻🇳
 <br>
 I obsess over shipping AI systems that **actually work in production** — from raw research to edge deployment.
 
@@ -54,7 +54,7 @@ Buckle up, it's a long one 😄<br><br>
 <details open>
 <summary><b>🦜 LLM Orchestration & RAG</b></summary>
 <br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/LlamaIndex-79C0FF?style=flat-square"> <img src="https://img.shields.io/badge/vLLM-5C8DF6?style=flat-square"> <img src="https://img.shields.io/badge/Ollama-5C8DF6?style=flat-square"> <img src="https://img.shields.io/badge/Triton_Server-76B900?style=flat-square&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/FastMCP-58A6FF?style=flat-square"> <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square"> <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/RAGAS-F9D71C?style=flat-square"> <img src="https://img.shields.io/badge/RGB_Benchmark-F9D71C?style=flat-square"> 
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/LlamaIndex-79C0FF?style=flat-square"> <img src="https://img.shields.io/badge/vLLM-5C8DF6?style=flat-square"> <img src="https://img.shields.io/badge/Ollama-5C8DF6?style=flat-square"> <img src="https://img.shields.io/badge/Triton_Server-76B900?style=flat-square&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/FastMCP-58A6FF?style=flat-square"> <img src="https://img.shields.io/badge/RAGAS-F9D71C?style=flat-square"> <img src="https://img.shields.io/badge/RGB_Benchmark-F9D71C?style=flat-square"> 
 <br>
 </details>
 
@@ -75,7 +75,7 @@ Buckle up, it's a long one 😄<br><br>
 <details open>
 <summary><b>📱 Mobile & Build Tools</b></summary>
 <br>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-3DDC84?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/CMake-555?style=flat-square&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/Makefile-555?style=flat-square"> <img src="https://img.shields.io/badge/Conda-F9D71C?style=flat-square&logo=anaconda&logoColor=black"> <img src="https://img.shields.io/badge/UV_pip-F9D71C?style=flat-square"> <img src="https://img.shields.io/badge/Label_Studio-FF7B72?style=flat-square"> <img src="https://img.shields.io/badge/Labelme-FF7B72?style=flat-square"> <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-3DDC84?style=flat-square&logo=gradle&logoColor=white"> <img src="https://img.shields.io/badge/CMake-555?style=flat-square&logo=cmake&logoColor=white"> <img src="https://img.shields.io/badge/Makefile-555?style=flat-square"> <img src="https://img.shields.io/badge/Conda-F9D71C?style=flat-square&logo=anaconda&logoColor=black"> <img src="https://img.shields.io/badge/UV_pip-F9D71C?style=flat-square"> <img src="https://img.shields.io/badge/Label_Studio-FF7B72?style=flat-square"> <img src="https://img.shields.io/badge/Labelme-FF7B72?style=flat-square"> <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square"> <img src="https://img.shields.io/badge/NotebookLM-4285F4?style=flat-square&logo=google&logoColor=white">
 <br>
 </details>
 
